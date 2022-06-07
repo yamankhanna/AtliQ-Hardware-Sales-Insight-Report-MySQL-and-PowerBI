@@ -8,7 +8,7 @@ This project includes building *Sales Insights Report* of AtliQ Hardware Company
     - Finding customers per market
     - Finding Sales Revenue by Markets and many other analyses.
 - *Building a Dashboard* - using *PowerBI* to showcase the Sales Insights of the company.
-    - Used DAX functions for Data Cleaning and Creating Measues to build charts.
+    - Useing DAX functions for Data Cleaning and Creating Measures to build charts.
 
 ## Dashboard
 ![](Dashboard/Sales_Insights_Dashboard.PNG)
