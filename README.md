@@ -1,4 +1,4 @@
-# AtliQ-Hardware-Sales-Insight-Report (MySQL and PowerBI)
+# AtliQ Hardware Sales Insight Report (MySQL and PowerBI)
 
 This project includes building *Sales Insights Report* of AtliQ Hardware Company.
 
